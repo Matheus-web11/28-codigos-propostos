@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
+
   int a, b, c;
   //exercicio 3. Considere um algoritmo que tenha como entrada 3 números inteiros chamados a, b, c
   printf("digite o valor da variável \n");
@@ -15,4 +15,5 @@ int main()
   printf("o valor da variavel a eh %d\n", c);
   
   return 0;
+
 }
