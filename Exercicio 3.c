@@ -3,7 +3,7 @@
 int main()
 {
   int a, b, c;
-  //exercicio 3
+  //exercicio 3. Considere um algoritmo que tenha como entrada 3 números inteiros chamados a, b, c
   printf("digite o valor da variável \n");
     scanf("%d", &a);
   printf("digite o valor da variável \n");
