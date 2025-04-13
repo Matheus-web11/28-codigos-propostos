@@ -2,6 +2,8 @@
 
 int main(){
  int x, y, x1, x2, soma1, soma2, dividir;
+ //faça um codigo onde receba dois numeros inteiros e somar estes dois numeros, 
+ //apos isso escrever mais dois numeros e somar eles e dividir o primeiro resultado pelo o segundo
 
 printf("digite seu primeiro valor: \n", x);
 scanf("%d", &x);
