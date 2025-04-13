@@ -2,6 +2,8 @@
 
 int main() {
 
+//crie um algoritmo que some 3 números inteiro e depois calcule a média 
+
 int x,y,z,soma, divisao;
 float s=3;
 char enter;
