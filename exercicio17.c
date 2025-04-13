@@ -5,7 +5,6 @@ int main() {
 //incompleto, não consegui terminar. faça um algoritmo que receba 5 números inteiros e retorne eles de forma ordenada e crescente
 
 int a,b,c,d,e;
-  //nao consegui finalizar
 
   printf("Digite 5 valores, esses 5 valores estarão em ordem crescente: \n");
   scanf("%d", &a);
