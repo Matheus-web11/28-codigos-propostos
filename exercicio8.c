@@ -2,6 +2,8 @@
 
 int main(){
 
+//escreva um algoritmo que peça o nome idade gênero e altura do usuário
+
 char nome[40], genero;
 int idade;
 float altura;
