@@ -2,7 +2,7 @@
 
 int main() {
 
-//incompleto. faça um algoritmo que receba 5 números inteiros e retorne eles de forma ordenada e crescente
+//incompleto, não consegui terminar. faça um algoritmo que receba 5 números inteiros e retorne eles de forma ordenada e crescente
 
 int a,b,c,d,e;
   //nao consegui finalizar
