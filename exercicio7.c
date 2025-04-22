@@ -1,9 +1,8 @@
-#include <stdio.h>
-
 int main(){
- int x, y, x1, x2, soma1, soma2, dividir;
- //faça um codigo onde receba dois numeros inteiros e somar estes dois numeros, 
- //apos isso escrever mais dois numeros e somar eles e dividir o primeiro resultado pelo o segundo
+ int x, y, x1, x2, soma1, soma2;
+ float dividir;
+ /*faça um codigo onde receba dois numeros inteiros e somar estes dois numeros, 
+ apos isso escrever mais dois numeros e somar eles e dividir o primeiro resultado pelo o segundo*/
 
 printf("digite seu primeiro valor: \n", x);
 scanf("%d", &x);
@@ -27,7 +26,7 @@ printf("a soma2 deu:%d\n", soma2);
 
 dividir=soma1/soma2;
 
-printf("a divisão das duas somas dá:%d", dividir);
+printf("a divisão das duas somas dá:%.4f", dividir);
 
 
 return 0;
