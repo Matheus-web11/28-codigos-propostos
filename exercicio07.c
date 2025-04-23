@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(){
  int x, y, x1, x2, soma1, soma2;
  float dividir;
@@ -24,7 +26,7 @@ soma2=x1+x2;
 
 printf("a soma2 deu:%d\n", soma2);
 
-dividir=soma1/soma2;
+dividir=(float)soma1/soma2;
 
 printf("a divisão das duas somas dá:%.4f", dividir);
 
