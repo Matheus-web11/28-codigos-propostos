@@ -1,5 +1,4 @@
 #include <stdio.h>
-//incompleto, não consegui terminar. faça um algoritmo que receba 5 números inteiros e retorne eles de forma ordenada e crescente
 
 int main() {
 
