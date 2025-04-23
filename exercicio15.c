@@ -1,5 +1,4 @@
 #include <stdio.h>
-//crie um algoritmo que some 3 números inteiro e depois calcule a média 
 
 int main() {
   
