@@ -1,5 +1,4 @@
 #include<stdio.h>
-/*faça um algoritmo que receba dois números reais e que a multiplicação deles retorne obrigatoriamente um número inteiro*/
 int main(){
     float x, y;
     float multiplicar;
