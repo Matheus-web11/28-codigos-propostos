@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/*faça um algoritmo que responda o usuário quando ele digitar a vogal “o”com a vogal “e”*/
 int main(){
     char o=o;
     char e=e;
