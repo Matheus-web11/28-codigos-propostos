@@ -2,7 +2,6 @@
 
 int main(){
   int copo, agua, soma;
-  //algoritmo que tenha como entrada dos numeros inteiros que some e depois mostre o resultado
   
   printf("digite o primeiro valor: \n");
   scanf("%d", &copo);
