@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-//faça um algoritmo com uma variável tipo char e defina o número de letras que a pessoa pode escrever
-
 int main() {
 
 char nome[10];
