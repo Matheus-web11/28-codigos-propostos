@@ -1,6 +1,4 @@
 #include <stdio.h>
-//faça um algoritmo que colete a data de nascimento do usuário que devolva a sua idade em meses
-
 int main() {
 
 
