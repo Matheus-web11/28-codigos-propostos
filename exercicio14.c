@@ -1,5 +1,4 @@
 #include <stdio.h>
-//faça um algoritmo que declare dois valores reais e cinco carácteres
 
 int main() {
 
