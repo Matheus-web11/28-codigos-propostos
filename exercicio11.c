@@ -1,8 +1,9 @@
 #include <stdio.h>
 
+//faça um algoritmo que insira dois números e que a divisão deles de um resultado que seja obrigatóriamente um número inteiro
+
 int main() {
 
-//faça um algoritmo que insira dois números e que a divisão deles de um resultado que seja obrigatóriamente um número inteiro
 
 float nro1, nro2;
 int divisao;
