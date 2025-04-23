@@ -27,7 +27,7 @@ char defit;
      if(genero=='M' || genero=='m'){
          printf("Ok, confirmado!\n");}
      else{
-         printf("Me desculpe mais seu genero nao esta apropriado ao alistamento!\n");
+         printf("\nMe desculpe mais seu genero nao esta apropriado ao alistamento!\n");
 return 0;}
         
       
