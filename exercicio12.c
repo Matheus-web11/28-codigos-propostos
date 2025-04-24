@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//faça um algoritmo com uma variável tipo char e defina o número de letras que a pessoa pode escrever. Aqui a gente possui uma variavel do tipo char seguidamente com o maximo de letras que o usuario pode digitar, aqui eu pedi que ele faça uma senha no maximo com 10 caracteres
+/*faça um algoritmo com uma variável tipo char e defina o número de letras que a pessoa pode escrever. Aqui a gente possui uma variavel do tipo char seguidamente com o maximo de letras que o usuario pode digitar, aqui eu pedi que ele faça uma senha no maximo com 10 caracteres*/
 
 int main() {
 
