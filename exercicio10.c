@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*faça um cardápio que apareça no terminal por meio do printf com no mínimo 5 escolhas, e faça a opção de escolha das opções*/
+/*faça um cardápio que apareça no terminal por meio do printf com no mínimo 4 escolhas, e faça a opção de escolha das opções*/
 
 int main(){
 
