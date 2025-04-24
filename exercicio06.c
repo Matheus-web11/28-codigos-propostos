@@ -1,8 +1,8 @@
 #include <stdio.h>
+/*algoritmo que tenha como entrada dois numeros inteiros que some e depois mostre o resultado. Possui duas variaveis onde cada um é o numero digitado pelo o usuário, a vai juntar esses dois valores e soma-los*/
 
 int main(){
   int copo, agua, soma;
-  //algoritmo que tenha como entrada dos numeros inteiros que some e depois mostre o resultado
   
   printf("digite o primeiro valor: \n");
   scanf("%d", &copo);
