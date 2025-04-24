@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*escreva um algoritmo que receba um valor em float e retorne um inteiro*/
 
 int main(){
 
