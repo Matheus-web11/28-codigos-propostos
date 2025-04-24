@@ -1,4 +1,6 @@
-    #include<stdio.h>
+   /*faça um algoritmo que leia dois valores, esses valores são as resistência de dois resistores em paralelo e calcule a resistência equivalente entre eles. Nesse algoritmo eu pego duas variaveis do tipo int que sao chamados de x e y, e tenho tambem as operações aritméticas do tipo int multiplicar e somar. Primeiro eu faço a multiplicação do galor digitado pelo o usuário e depois eu faço a soma, após eu pegar o valor da multiplicação e da soma, eu divido um pelo o outro, que resulta na resistência equivalente, que saira em um resultado float*/
+
+ #include<stdio.h>
 
     int main(){
 
@@ -6,8 +8,7 @@
     int multiplicar, somar;
     float dividir;
 
-    /*faça um algoritmo que leia dois valores, esses valores são as resistência de dois
-    resistores em paralelo e calcule a resistência equivalente entre eles*/
+    
 
     printf("Digite dois valores inteiros: ");
     scanf(" %d %d" , &x, &y);
