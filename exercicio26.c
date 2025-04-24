@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*faça um algoritmo que receba dois números inteiros e verifique se a soma deles é maior ou igual a 10*/
 
 int  main(){
 
