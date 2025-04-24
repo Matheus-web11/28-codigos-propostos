@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*Considere um algoritmo que tenha como entrada 3 números inteiros. Tres variaveis onde cada uma vai apresentar um numero inteiro, onde após de ser digitado ele vai ser mostrado ao usuário*/
+/*Considere um algoritmo que tenha como entrada 3 números inteiros. Tres variaveis onde cada uma vai apresentar um numero inteiro, onde após de ser digitado
+ele vai ser mostrado ao usuário*/
 
 int main(){
   int a, b, c;
