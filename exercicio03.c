@@ -2,7 +2,8 @@
 
 int main(){
   int a, b, c;
-  //Considere um algoritmo que tenha como entrada 3 números inteiros chamados a, b, c
+  /*Considere um algoritmo que tenha como entrada 3 números inteiros. Tres vriaveis onde cada uma vai apresentar um numero inteiro, onde após de ser digitado ele vai ser mostrado ao usuário*/
+
   
   printf("digite o valor da variável a \n");
     scanf("%d", &a);
