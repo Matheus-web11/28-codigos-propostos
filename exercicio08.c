@@ -1,8 +1,11 @@
+/*escreva um algoritmo que peça o nome idade gênero e altura do usuário. Tendo duaz variaveis tipo char uma chamada nome e tendo um limite de palavras que pode ser digitada,
+ja a outra e o genero, que o usuário vai apresentar se ele é masculino como 'M' e feminino como 'F'. outro tipo é inteiro para a idade,
+que o usuário vai digitar sua idade. Outro é do tipo float altura, onde a altura é representado como valor de ponto flutuante.
+Isso vai sendo de forma sequencial. primeiro nome, segundo a idade, terceiro o genero e depois a altura. e apresentara de forma organizada conforme digitado pelo o usuário*/
+
 #include <stdio.h>
 
 int main(){
-
-/*escreva um algoritmo que peça o nome idade gênero e altura do usuário. Tendo duaz variaveis tipo char uma chamada nome e tendo um limite de palavras que pode ser digitada, ja a outra e o genero, que o usuário vai apresentar se ele é masculino como 'M' e feminino como 'F'. outro tipo é inteiro para a idade, que o usuário vai digitar sua idade. Outro é do tipo float altura, onde a altura é representado como valor de ponto flutuante. Isso vai sendo de forma sequencial. primeiro nome, segundo a idade, terceiro o genero e depois a altura. e apresentara de forma organizada conforme digitado pelo o usuário*/
 
 char nome[40], genero;
 int idade;
