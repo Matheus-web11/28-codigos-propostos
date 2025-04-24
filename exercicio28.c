@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*faça um algoritmo que tenha como entrada um valor real*/
 
 int main(){
 
