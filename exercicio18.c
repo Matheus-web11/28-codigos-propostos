@@ -1,5 +1,7 @@
+/*faça um algoritmo que responda o usuário quando ele digitar a vogal “o”com a vogal “e”. Nesse algoritmo tem dois tipos char que possui a atribuição 'o' e outro 'e',
+eu peço que o usuário digite a vogal o maiúsculas e apos ele confirmar, essa vogal virara a volga e*/
+
 #include<stdio.h>
-/*faça um algoritmo que responda o usuário quando ele digitar a vogal “o”com a vogal “e”. Nesse algoritmo tem dois tipos char que possui a atribuição 'o' e outro 'e', eu peço que o usuário digite a vogal o maiúsculas e apos ele confirmar, essa vogal virara a volga e*/
 
 int main(){
     char o=o;
