@@ -1,5 +1,7 @@
+/*faça um algoritmo que receba dois números inteiros e verifique se a soma deles é maior ou igual a 10. Nesse algoritmo eu usei dos tipos inteiro, e um int soma. os dois primeiros
+inteiros serao somados, o proprio usuario vai digita-los. a variavel soma vai fazer a operacao e vai verificar se a junção dos
+numeors inteiros vai dar um resultado maior que 10 ou igual*/
 #include <stdio.h>
-/*faça um algoritmo que receba dois números inteiros e verifique se a soma deles é maior ou igual a 10*/
 
 int  main(){
 
