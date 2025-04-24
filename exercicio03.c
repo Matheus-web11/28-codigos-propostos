@@ -1,18 +1,18 @@
 #include <stdio.h>
-/*Considere um algoritmo que tenha como entrada 3 números inteiros. Tres vriaveis onde cada uma vai apresentar um numero inteiro, onde após de ser digitado ele vai ser mostrado ao usuário*/
+/*Considere um algoritmo que tenha como entrada 3 números inteiros. Tres variaveis onde cada uma vai apresentar um numero inteiro, onde após de ser digitado ele vai ser mostrado ao usuário*/
 
 int main(){
   int a, b, c;
   
 
   
-  printf("digite o valor da variável a \n");
+  printf("digite o valor da variavel a \n");
     scanf("%d", &a);
     
-  printf("digite o valor da variável b \n");
+  printf("digite o valor da variavel b \n");
     scanf("%d",&b);
     
-  printf("digite o valor da variável c \n");
+  printf("digite o valor da variavel c \n");
     scanf("%d",&c);
     
   printf("o valor da variavel a eh %d\n", a);
