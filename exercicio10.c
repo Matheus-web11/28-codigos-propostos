@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-/*faça um cardápio que apareça no terminal por meio do printf com no mínimo 4 escolhas, e faça a opção de escolha das opções*/
+/*faça um cardápio que apareça no terminal por meio do printf com no mínimo 4 escolhas, e faça a opção de escolha das opções. Um cardapio onde possui 4 opções de escolha, onde foi definida por tipo int chamados de item1, item2, item3, item4, referindo cada item a lista. Possui tambem a variavel do tipo char opcao, que refere se o usuário vai querer algo mais do cardápio. ele nao pode escolher algum item repetido, podendo assim, pedir uma coisa de cada vez.*/
 
 int main(){
 
-int quantidade;
 int item1, item2, item3, item4;
 char opcao;
 
