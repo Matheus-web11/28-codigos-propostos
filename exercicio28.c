@@ -1,5 +1,8 @@
+/*faça um algoritmo que tenha como entrada um valor real. Nesse algoritmo, vou usar uma so variavel do tipo float, e continuamente vou pedir ao ususario digitar um simples numero
+real simples, que sera mostrado na tela*/
+
 #include <stdio.h>
-/*faça um algoritmo que tenha como entrada um valor real*/
+
 
 int main(){
 
