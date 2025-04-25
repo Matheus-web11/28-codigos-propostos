@@ -1,7 +1,10 @@
 /*crie um algoritmo que receba 2 números inteiros e realize um divisão.
-Em seguida informe se o resto dessa divisão é ímpar e imprima isso na tela. Nesse algoritmo é apresentado duas variaveis do tipo inteiro x e y e um float chamado divisao.
-eu peço que o usuario digite um numero inteiro e depois o outro. após isso, ele realizara uma divisão onde entra o float. só que como os valores digitados sao inteiros,
-e preciso converter esses numeros em float, depois eu faço if que se os numeros divididos darem resto 0 nao valida como resto impar, já se dividi dois numeros onde de resto 1,
+Em seguida informe se o resto dessa divisão é ímpar e imprima isso na tela. Nesse algoritmo é apresentado duas variaveis do tipo inteiro x e y e um
+float chamado divisao.
+eu peço que o usuario digite um numero inteiro e depois o outro. após isso, ele realizara uma divisão onde entra o float. só que como os valores
+digitados sao inteiros,
+e preciso converter esses numeros em float, depois eu faço if que se os numeros divididos darem resto 0 nao valida como resto impar, já se dividi
+dois numeros onde de resto 1,
 vai validar como impar e mostrara que a divisão saiu com resto impar*/
 
 #include<stdio.h>
