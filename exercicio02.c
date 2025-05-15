@@ -1,8 +1,3 @@
-/*crie um algoritmo que identifique se a altura do usuário é maior ou menor da altura media nacional. Nesse algoritmo eu
-coloquei uma variavel tipo float para altura e outro do tipo char para saber o genero do usuario 'M' para masculino e 'F'
-para feminino. peço que o usuário digite sua altura e seu genero, onde eu vou comparar sua altura com o genero e ver se ele se
-encontra na média nacional masculina ou feminina*/
-
 #include <stdio.h>
 
 int main(){
