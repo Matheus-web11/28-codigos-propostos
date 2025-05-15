@@ -18,3 +18,4 @@ j10 = 100;
 printf("%d %d %d %d %d %d %d %d %d %d" , a1, b2, c3, d4, e5, f6, g7, h8, i9, j10);
 
 return 0;
+}
