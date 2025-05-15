@@ -16,3 +16,4 @@ f = 'C';
 printf("%d %d, %f, %c %c %c" , a,b,c,d,e,f);
 
 return 0;
+}
