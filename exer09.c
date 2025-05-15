@@ -11,3 +11,4 @@ h = 'A';
 printf("%f %c" , g, h);
 
 return 0;
+}
