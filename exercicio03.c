@@ -1,6 +1,3 @@
-/*Considere um algoritmo que tenha como entrada 3 números inteiros. Tres variaveis onde cada uma vai apresentar um numero inteiro, onde após de ser digitado
-ele vai ser mostrado ao usuário*/
-
 #include <stdio.h>
 
 int main(){
