@@ -11,3 +11,4 @@ c = 2.1;
 printf("%f %f %f" , a, b, c);
 
 return 0;
+}
