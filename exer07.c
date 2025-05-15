@@ -10,3 +10,4 @@ b = 2;
 printf("%d %d" , a, b);
 
 return 0;
+}
