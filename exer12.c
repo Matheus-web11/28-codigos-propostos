@@ -2,11 +2,12 @@
 
 int main(){
 
-float f;
+float numero_real;
 
-f = 5.25;
+  printf("Digite um valor real: ");
+  scanf("%f" , &numero_real);
 
-printf("%f" , f);
+printf("Seu numero real eh: %.3f" , numero_real);
 
 return 0;
 }
