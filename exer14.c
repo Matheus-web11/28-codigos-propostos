@@ -1,16 +1,18 @@
 #include <stdio.h>
+  int main()
+  {
+  char letras[4], i;
 
-int main(){
+  printf("Digites 4 caracteres: ");
 
-char a, b, c, d e;
-
-a = 'A';
-b = 'E';
-c = 'I';
-d = 'O';
-e = 'U';
-
-printf("%c %c %c %c %c" , a, b, c, d, e);
-
-return 0;
-}
+  for(i = 0; i < 4; i++)
+  {
+    scanf("%d" , &letras[i]);
+  }
+  printf("Seus caracteres eh: \n");
+  for(i = 0; i < 4; i++)
+  {
+   printf("%c " , letras[i]); 
+  }
+  return 0;
+  }
