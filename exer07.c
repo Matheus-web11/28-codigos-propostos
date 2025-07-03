@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 int main(){
+  int nro1, nro2;
+  
+  printf("Digite dois numeros inteiros: ");
+  scanf("%d %d" , &nro1, nro2);
 
-int a, b;
+  printf("Seus valores forao: %d %d" , nro1, nro2);
 
-a = 1;
-b = 2;
-
-printf("%d %d" , a, b);
-
-return 0;
+  return 0;
 }
