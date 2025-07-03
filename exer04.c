@@ -2,11 +2,14 @@
 
 int main(){
 
-int dias;
+int dias, idade;
 
-dias = 6570;
+printf("Digite sua idade e mostrara em dias\n");
+scanf("%d" , &idade);
 
-printf("%d" , dias);
+idade *= 365;
+
+printf(" %d dias" , idade);
 
 return 0;
 }
