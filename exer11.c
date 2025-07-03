@@ -1,15 +1,16 @@
 #include <stdio.h>
+  int main(){
+    int numeros[4], i;
 
-int main(){
+    printf("Digite 4 numeros: \n");
 
-int n1, n2, n3, n4;
+    for(i = 0; i < 4; i++){
+    scanf("%d" , &numeros[i]);}
 
-n1 = 10;
-n2 = 20;
-n3 = 30;
-n4 = 40;
 
-printf("%d %d %d %d" , n1, n2, n3, n4);
+   printf("Seus valores digitados sao: \n");
+    for(i = 0; i < 4; i++){
+    printf("%d. %d\n" , i+1, numeros[i]);}
 
-return 0;
+  return 0;
 }
