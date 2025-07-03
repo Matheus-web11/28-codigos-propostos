@@ -2,13 +2,12 @@
 
 int main(){
 
-float a, b, c;
+float n1, n2, n3;
 
-a = 5.0;
-b = 4.5;
-c = 2.1;
+printf("Digite tres numeros reais: ");
+scanf("%f %f %f" , &n1, n2, n3);
 
-printf("%f %f %f" , a, b, c);
+printf("%.2f %.2f %.2f" , n1, n2, n3);
 
 return 0;
 }
