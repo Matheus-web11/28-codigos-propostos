@@ -1,13 +1,14 @@
 #include <stdio.h>
+  int main(){
+    float tempo_inicio, tempo_fim;
+    
+    printf("Digite o tempo de inicio de uma partida: \n");
+    scanf("%f" , &tempo_inicio);
 
-int main(){
-
-float tempo1, tempo2;
-
-tempo1 = 18.40;
-tempo2 = 12.40;
-
-printf("%f %f" , tempo1, tempo2);
+    printf("Digite agora o tempo de fim da partida: \n")
+    scanf("%f" , &tempo_fim);
+  
+printf("INICIO: %.3f\n FIM: %.3f\n" , tempo_inicio, tempo_fim);
 
 return 0;
 }
