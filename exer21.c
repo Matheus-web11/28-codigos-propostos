@@ -8,7 +8,7 @@ int c;
 
 a = 'Z';
 b = 10;
-c = 54.56
+c = 54.56;
 
 printf("%f %c %d" , a, b, c);
 
