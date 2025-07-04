@@ -4,7 +4,7 @@
   
   while(exercicio >= 1 || exercicio <= 21)
   {  
-  printf("Digite o numero do exercicio! (1 A 21. ou 0 caso queira sair): ");
+  printf("\nDigite o numero do exercicio! (1 A 21. ou 0 caso queira sair): ");
   scanf("%d" , &exercicio);
 
   if(exercicio == 0)
